@@ -1,0 +1,5 @@
+{
+  "name": "LumberLogic Optimizer",
+  "description": "A smart wood workshop calculator that optimizes raw lumber purchases based on finished part dimensions using Gemini AI.",
+  "requestFramePermissions": []
+}
